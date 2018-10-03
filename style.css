@@ -10,3 +10,11 @@
     width: 40%;
     background-color: lime;
 }
+#clear {
+    clear: both;
+}
+#baton {
+background-color: blue;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 20px;
+}
